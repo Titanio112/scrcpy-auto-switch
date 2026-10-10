@@ -1,0 +1,9 @@
+# IP pessoal do celular (gerado pelo script, nao deve ir pro GitHub)
+celular_ip.txt
+
+# O scrcpy e baixado separado, nao versionar aqui
+scrcpy.exe
+scrcpy-server
+scrcpy-noconsole.vbs
+adb.exe
+*.dll

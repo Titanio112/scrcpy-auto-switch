@@ -1,4 +1,4 @@
-# scrcpy-auto-switch
+# Wireflex-Scrcpy
 
 🇧🇷 Português | 🇺🇸 [English](#english)
 
